@@ -1,0 +1,18 @@
+Masochist,E3 6a,Dalkey quarry
+Maricon,E3 5c,Dalkey quarry
+Tom Tit,E2 6a,Dalkey quarry
+Route 32,E2 6a,Ailladie (Burren, Co. Clare)
+Blazing Saddles,E2 5c,Dalkey quarry
+Overdue,E2 5c,Lower Cove
+Tower Ridge Direct,E2 5c,Dalkey quarry
+
+{
+  "Route": [
+    {
+    "RouteName": "Masochist",
+    "Grade": "",
+    "Crag": ""
+  },
+
+  ]
+}
